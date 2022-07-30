@@ -80,7 +80,7 @@ const Cart = () => {
                         </div>
                     </div>
                     <div>
-      <Button variant="contained" onClick={handleClickOpen}>
+      <Button variant="contained" onClick={handleClickOpen} style={{marginTop:'50px'}}>
         ORDER NOW
       </Button>
       <Dialog
@@ -94,14 +94,14 @@ const Cart = () => {
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Eo_circle_green_white_checkmark.svg/2048px-Eo_circle_green_white_checkmark.svg.png" alt="" />
             </DialogTitle>
         <DialogContent>
-          <DialogContentText id="alert-dialog-slide-description">
+          <DialogContentText textAlign={"center"} id="alert-dialog-slide-description">
             <Typography variant="h4">Order Placed Successfully</Typography>
-            <Typography variant="p" textAlign={"center"}>It will be delivered in 5 days</Typography>
+            <Typography variant="p" >It will be delivered in 5 days</Typography>
           </DialogContentText>
         </DialogContent>
-        <DialogActions>
+        <Button  className="okBtn">
           <Button variant="contained" onClick={handleClose}>OK</Button>
-        </DialogActions>
+        </Button>
       </Dialog>
     </div>
 

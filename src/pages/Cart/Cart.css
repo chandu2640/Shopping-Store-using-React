@@ -9,6 +9,16 @@
 .cartItem{
     width: 67%; 
 }
+.tick{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.okBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .tick img{
     width: 370px;
 }
@@ -78,8 +88,7 @@
         width: 75%;
         margin: 20px;
     }
-    .placeOrder{
-       
-        
+    .tick img{
+        width: 240px;
     }
 }
