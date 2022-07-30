@@ -1,0 +1,29 @@
+.slider_header {
+        width: 100%;
+    }
+
+    .all_cont {
+        background-color: #ecf0f5;
+    }
+
+    .slider_header img {
+        width: 100%;
+    }
+
+
+.category{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2%;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.category img{
+    width: 450px; 
+    margin: 10px 0; 
+}
+@media only screen and (max-width: 500px){
+    .category img{
+        width: 300px;  
+    }
+}

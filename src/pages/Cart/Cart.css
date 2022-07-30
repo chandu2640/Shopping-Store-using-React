@@ -1,0 +1,85 @@
+.Cart{
+    display: flex;
+    justify-content: space-evenly;
+    width: 90%;
+    margin: auto;
+    margin-top: 2%;
+    flex-wrap: wrap;
+}
+.cartItem{
+    width: 67%; 
+}
+.tick img{
+    width: 370px;
+}
+.cartProduct{
+    background-color: white;
+    width: 100%;
+    padding: 2%;
+    border-radius: 5px;
+    height: fit-content;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+
+}
+.cartProduct h2{
+    font-weight: 500;
+}
+.price h2 {
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.price{
+    width: 28%;
+    background-color: white;
+    padding: 2%;
+    border-radius: 5px;
+    height: fit-content;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;  
+}
+.total h2{
+    font-weight: 400;
+}
+.priceComponent{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.total{
+    margin: 25px 0;
+}
+.pp{
+    display: flex;
+    justify-content: space-between;
+}
+.BasketItems{
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.placeOrder{
+    border: none;
+    padding: 10px;
+    background-color: #0478ed;
+    color: white;
+    font-size: 1.1rem;
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 150px;
+}
+
+
+@media only screen and (max-width: 650px){
+    .cartItem{
+        width: 99%;   
+    }
+    .price{
+        width: 75%;
+        margin: 20px;
+    }
+    .placeOrder{
+       
+        
+    }
+}
