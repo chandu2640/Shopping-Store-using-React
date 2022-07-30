@@ -96,7 +96,7 @@ const Cart = () => {
         <DialogContent>
           <DialogContentText textAlign={"center"} id="alert-dialog-slide-description">
             <Typography variant="h4">Order Placed Successfully</Typography>
-            <Typography variant="p" >It will be delivered in 5 days</Typography>
+            <Typography variant="p" >It will be delivered in 5 days</Typography> 
           </DialogContentText>
         </DialogContent>
         <Button  className="okBtn">
