@@ -31,3 +31,26 @@ I have used `HTML`, `CSS`, `React` and  `Material UI` for Icons only and a popup
 1. More animations in different sections.
 2. Minor improvements in diffeerent sections
 
+### Home page
+
+<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/91940866/181870968-bee5b7f0-e149-4927-bd7f-a5321849a3df.png">
+
+
+### Register page
+<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/91940866/181870971-c6adbe18-d6ef-4500-8791-bb32a24a9f26.png">
+
+### Login Page
+<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/91940866/181870972-df3f2da5-6343-41ce-9061-62fae8a10557.png">
+
+### Product Page
+<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/91940866/181870975-485cfa6c-d82f-4b63-888c-bcd8e391cfc0.png">
+
+### Product Details Page
+<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/91940866/181870976-8d7dfd8c-fa79-44cf-bd5a-8f9e1e1d8f94.png">
+
+### Cart Page
+<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/91940866/181871696-aede2829-c165-473a-8ee7-cc1adc896648.png">
+
+### Order Confirm Page
+<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/91940866/181871698-24d6931a-0333-43aa-8d6d-f7e1ec026da0.png">
+
