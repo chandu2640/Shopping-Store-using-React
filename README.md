@@ -49,8 +49,8 @@ I have used `HTML`, `CSS`, `React` and  `Material UI` for Icons only and a popup
 <img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/91940866/181870976-8d7dfd8c-fa79-44cf-bd5a-8f9e1e1d8f94.png">
 
 ### Cart Page
-<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/91940866/181870977-0bc09e71-61f9-4865-9108-838ca3f9e6d5.png">
+<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/91940866/181871696-aede2829-c165-473a-8ee7-cc1adc896648.png">
 
 ### Order Confirm Page
-<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/91940866/181870978-3595ca26-47f6-4853-9e23-9780dcbe41cd.png">
+<img width="1512" alt="Screenshot 2022-07-24 at 10 45 58 AM" src="https://user-images.githubusercontent.com/91940866/181871698-24d6931a-0333-43aa-8d6d-f7e1ec026da0.png">
 
